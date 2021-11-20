@@ -8,6 +8,10 @@ According to Offline Algorithm's definition - our elevators users will be flowin
 
 
 
+![צילום מסך 2021-11-20 211913](https://user-images.githubusercontent.com/88654426/142738479-86933c2e-83e8-47f8-94d9-827c3e33b977.png)
+
+
+
 
 
 

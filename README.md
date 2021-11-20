@@ -32,6 +32,7 @@ Similar Mechanism:
 • Choosing an uber driver – more like choosing the fastest driver.
 
 • Fire department – more like sending the closest fire engine; the fastest to arrive to the fireplace.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Objects We Created:
 

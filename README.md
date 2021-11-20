@@ -43,7 +43,7 @@ Similar Mechanism:
 
 -Building:Represents  the  Building  we  have.
 
-Allocation:Responsible  to allocate  and there all  methods and function we created and the case to read+load JSON and CSV Files.
+Algo :Responsible  to allocate  and there all  methods and function we created and the case to read+load JSON and CSV Files.
 
 
 

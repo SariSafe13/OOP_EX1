@@ -24,7 +24,17 @@ that has the lowest value of time is basically our fastest elevator that must be
 user. Eventually, the whole process that was just introduced is actually done for every call
 that happens in our building.
 
+Similar Mechanism:
+• Waze – gives us the fastest route to use.
+• Choosing an uber driver – more like choosing the fastest driver.
+• Fire department – more like sending the closest fire engine; the fastest to arrive to the fireplace.
+
 # Objects We Created:
+
+Call: Represents a call.
+Elevator: Represents a Elevator.
+Building: Represents the Building we have.
+Allocation:  Responsible to allocate and there all methods and function we created and the case to read+load Json and CSV Files.
 
 
 
